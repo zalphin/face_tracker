@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLaserTurret", "MyLaserTurret\MyLaserTurret.csproj", "{90396FD2-7D7F-4E98-B648-E3C23FD5BA3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90396FD2-7D7F-4E98-B648-E3C23FD5BA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90396FD2-7D7F-4E98-B648-E3C23FD5BA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90396FD2-7D7F-4E98-B648-E3C23FD5BA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90396FD2-7D7F-4E98-B648-E3C23FD5BA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {433CE9D5-1F66-4056-A1A1-C086CCBE8D4A}
+	EndGlobalSection
+EndGlobal
