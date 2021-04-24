@@ -1,0 +1,10 @@
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe.config
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.exe
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\bin\Debug\MyLaserTurret.pdb
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csprojAssemblyReference.cache
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Form1.resources
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.Properties.Resources.resources
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.GenerateResource.cache
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.csproj.CoreCompileInputs.cache
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.exe
+C:\Users\sonic\Desktop\scripts\FaceRec\face_tracker\CSCode\MyLaserTurret\MyLaserTurret\obj\Debug\MyLaserTurret.pdb
